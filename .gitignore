@@ -1,0 +1,8 @@
+/dist
+.DS_Store
+node_modules
+.vscode
+npm-debug.log
+yarn-error.log
+.idea/
+.history
